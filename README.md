@@ -1,6 +1,6 @@
 <div align="center">
 
-# Arthur
+# Arthur Martins
 
 Full-Stack Developer · Computer Science Student
 
