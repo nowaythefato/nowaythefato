@@ -1,12 +1,14 @@
 <div align="center">
 
-# Arthur
+# Arthur Martins
 
 Full-Stack Developer · Computer Science Student
 
 *Desenvolvendo sistemas financeiros para o mercado de crédito consignado.*
 
 <br>
+
+---
 
 ### Stack principal
 
@@ -19,7 +21,6 @@ Full-Stack Developer · Computer Science Student
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/>
 
 <br><br>
@@ -30,6 +31,7 @@ Full-Stack Developer · Computer Science Student
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40"/>
 
 <br>
 
@@ -39,10 +41,29 @@ Full-Stack Developer · Computer Science Student
 
 | | |
 |---|---|
-| 🎓 Formação | Etec Amim Jundi — Desenvolvimento de Sistemas |
-| 📚 Cursando | Ciência da Computação — UNIFAI (5º termo) |
-| 💼 Posição | Full-Stack Developer Junior |
-| 🎯 Foco | Backend · Integração de APIs · Banco de Dados |
+| 🎓 **Formação** | Etec Amim Jundi — Desenvolvimento de Sistemas |
+| 📚 **Cursando** | Ciência da Computação — UNIFAI (5º termo) |
+| 💼 **Posição atual** | Full-Stack Developer Junior |
+| 🎯 **Foco** | Backend · Integração de APIs · Banco de Dados |
+
+<br>
+
+---
+
+### Experiência
+
+**🏦 Sistemas Financeiros (ERP)**
+Desenvolvimento de funcionalidades para gestão de crédito consignado — integrações bancárias, digitação de propostas e orquestração de fluxos de aprovação.
+
+<br>
+
+**🔌 Integração de APIs**
+Consumo e desenvolvimento de APIs REST com foco em rate limiting, filas com SQS/BullMQ e resiliência a falhas.
+
+<br>
+
+**🗄️ Banco de Dados**
+Modelagem e otimização de queries em PostgreSQL e SQL Server para sistemas financeiros em produção.
 
 <br>
 
