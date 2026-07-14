@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Initializing+system...+%5BOK%5D;Loading+kernel+modules...+%5BOK%5D;Mounting+%2Fhome%2Farthur...+%5BOK%5D;Decrypting+profile.dat...;Access+granted." alt="boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Initializing+system...+%5BOK%5D;Loading+kernel+modules...+%5BOK%5D;Mounting+%2Fhome%2Fnoway...+%5BOK%5D;Decrypting+profile.dat...;Access+granted." alt="boot sequence" />
 
 </div>
 
@@ -43,21 +43,21 @@ I]1vZh8@$$$$$$$$@B@BBMZ{,. `I]1|cQ+"    ivpdrr_\Uq$@$$
 <br>
 
 ```bash
-┌──(arthur㉿kali)-[~]
+┌──(noway㉿kali)-[~]
 └─$ whoami
 ```
 
 ```
-> Nome ......... Arthur
-> Cargo ........ Desenvolvedor Full Stack
+> Nome ......... noway (nowaythefato)
+> Formação ..... Des. de Sistemas e Redes de Computadores (Etec Amim Jundi)
+> Cursando ..... Ciência da Computação
 > Stack ........ JavaScript | Python | React | Node.js
-> Localização .. /home/arthur/brasil
 > Status ....... [ ONLINE ] compilando ideias em produção
 ```
 
 ```bash
-┌──(arthur㉿kali)-[~]
-└─$ decrypt --profile arthur.dat
+┌──(noway㉿kali)-[~]
+└─$ decrypt --profile noway.dat
 ```
 
 ```
@@ -71,7 +71,7 @@ I]1vZh8@$$$$$$$$@B@BBMZ{,. `I]1|cQ+"    ivpdrr_\Uq$@$$
 Apaixonado por resolver problemas complexos com código limpo e eficiente. Sempre explorando novas tecnologias e construindo projetos que unem lógica e criatividade.
 
 ```bash
-┌──(arthur㉿kali)-[~]
+┌──(noway㉿kali)-[~]
 └─$ cat skills.txt
 ```
 
@@ -89,27 +89,27 @@ Apaixonado por resolver problemas complexos com código limpo e eficiente. Sempr
 <br>
 
 ```bash
-┌──(arthur㉿kali)-[~]
+┌──(noway㉿kali)-[~]
 └─$ fetch --github-stats
 ```
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nowaythefato&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowaythefato&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=nowaythefato&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nowaythefato&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nowaythefato&theme=highcontrast&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img src="https://streak-stats.demolab.com/?user=nowaythefato&theme=highcontrast&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
 </div>
 
-> ⚠️ **Atenção:** troque `nowaythefato` pelo seu nome de usuário do GitHub nos links acima para os cards funcionarem.
+> ⚠️ **Atenção:** troque `SEU_USUARIO` pelo seu nome de usuário do GitHub nos links acima para os cards funcionarem.
 
 <br>
 
 ```bash
-┌──(arthur㉿kali)-[~]
+┌──(noway㉿kali)-[~]
 └─$ fortune | cowsay --dev
 ```
 
@@ -122,7 +122,7 @@ Apaixonado por resolver problemas complexos com código limpo e eficiente. Sempr
 <br>
 
 ```bash
-┌──(arthur㉿kali)-[~]
+┌──(noway㉿kali)-[~]
 └─$ cat contact.sh
 ```
 
@@ -139,7 +139,7 @@ Apaixonado por resolver problemas complexos com código limpo e eficiente. Sempr
 <div align="center">
 
 ```
-┌──(arthur㉿kali)-[~]
+┌──(noway㉿kali)-[~]
 └─$ exit
 ```
 
