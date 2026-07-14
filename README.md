@@ -1,68 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Initializing+system...+%5BOK%5D;Loading+kernel+modules...+%5BOK%5D;Mounting+%2Fhome%2Fnoway...+%5BOK%5D;Decrypting+profile.dat...;Access+granted." alt="boot sequence" />
+<img src="./terminal.svg" alt="terminal animado" width="100%" />
 
 </div>
 
-<br>
-
-<div align="center">
-
-```
-
-o88@$$$B@%Lvv)^              l`,_vpo&$$$$$v ,/   `
-#B@&@$$BB&kLYr:              ^ :/vZx{cCqhht :a-  .
-\0bpXXLnXx_;^.                  ..I,`^  `^^ "MJ
- i}tj/Y(([\?                   -0whpul      .ha`
-":]}{_[-~(?.             .l:   tW$$$$L"     :hW;
-IvMWhq]!l`_\lI`          +cz?, ;}|/rf?      _*M,
-^/0qbLn\x\mZn:.          UMhpXtjt[ii"..     1&b
-]]bqYcpopOW8%r`         .p$BBBW#pqdOCvnzj_`{JBO;.
-Ycm#&$$$%m&%*r         .:m$$$$$$@$$$$$@$BOL&%$Wh+  I.
-JkvaB$$$$$&&%z;|].     :]m$$$$$$$$$$$$$$$B$$$$$$t Iz},
-LoQpB@$$$$@&&hhBv`     ,(m@$$$$$$$$$$$$$$$$$$$$$b,)kO[
-)\+[&BB8B$$$8k*&Cl     .:t$$$$$$$$$$$$$$$$$$$$$$h:r&o)
-@Z [@$@&*akkMjm$BC` ..  "1pM@$$$$$$$$$$$$$$$$$$@f Im*_
-$@cI&$$$$%o*u:k$$d^;x? ...,xB$$$$$$$$$$$$$$$$$$%+ .XC^
-8$$/Y%&B$$$$a,w$$B|tp}~,  .IO@$$$$$$$$$$$$$$$$BkI |a+
-$@%Q)%@$$$$$$1Y$$$wrX)("    |%$$$$$$$$$$$$$@B8px,{&0
-hW%8p@$$$$$$$mL$$$#0WabUcUYupaw#$$$$$$$$$$$@@@@$rh%i .
-W$$@&@$$$$$$$&o$$$8M$$O?i_((+,IiC@$$$@B%%@$$$$$$U%/
-$$$@8$$$$$$$$@B$$$$%d0[         .|#$$@%o0zuxj\\{~}
-$$$@W@$$$$$$$$$$$$$WO\            ;0$$$$@*0j}_;     .l
-$$$$8@$$$$$$$$$$$$$8&*x([]!"       .r%$$@@%WM#0I   ]Z0
-@$$@B$$$$$$$$$$$$$@#*o()Xv/t/t([!.   ]h$$@%*pz:  ^~hMM
-OaMM8@$$$$$$$$$$$$$&MMj_~   ;_]{um^   "X%$$$$J{:Xth%B$
-I]1vZh8@$$$$$$$$@B@BBMZ{,. `I]1|cQ+"    ivpdrr_\Uq$@$$
- `l+]c*M&B@@$@@@8M***WBr        .,-)\]^    ..^^"?M$$$$
-
-```
-
-</div>
-
-<br>
-
-```bash
-┌──(noway㉿kali)-[~]
-└─$ whoami
-```
-
-```
-> Nome ......... noway (nowaythefato)
-> Formação ..... Des. de Sistemas e Redes de Computadores (Etec Amim Jundi)
-> Cursando ..... Ciência da Computação
-> Stack ........ JavaScript | Python | React | Node.js
-> Status ....... [ ONLINE ] compilando ideias em produção
-```
-
-```bash
-┌──(noway㉿kali)-[~]
-└─$ decrypt --profile noway.dat
-```
-
-```
-[■■■■■■■■■■■■■■■■■■■■] 100%  decrypting... concluído ✔
-```
+> ⚠️ **Importante:** o `terminal.svg` precisa estar na **raiz do mesmo repositório** que este `README.md` para o GitHub carregar. Se preferir usar URL direta em vez de caminho relativo: `https://raw.githubusercontent.com/nowaythefato/nowaythefato/main/terminal.svg` (troque `main` por `master` se for o nome do seu branch padrão).
 
 <br>
 
@@ -104,7 +46,7 @@ Apaixonado por resolver problemas complexos com código limpo e eficiente. Sempr
 
 </div>
 
-> ⚠️ **Atenção:** troque `SEU_USUARIO` pelo seu nome de usuário do GitHub nos links acima para os cards funcionarem.
+> ℹ️ Os cards acima já estão apontando para `nowaythefato`. Se você trocar de usuário no futuro, é só substituir esse nome nos 3 links de stats/streak.
 
 <br>
 
