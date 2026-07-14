@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mvartkkj/mvartkkj/main/assets/terminal.svg" alt="arthur@kali — boot sequence" width="820"/>
+<img src="https://raw.githubusercontent.com/nowaythefato/nowaythefato/main/assets/terminal.svg" alt="arthur@kali — boot sequence" width="820"/>
 
 </div>
 
@@ -89,12 +89,12 @@ Modelagem e otimização de queries em `PostgreSQL` e `SQL Server` para sistemas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mvartkkj&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=000000&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvartkkj&layout=compact&hide_border=true&theme=tokyonight&bg_color=000000&title_color=7aa2f7&text_color=c0caf5&langs_count=8" alt="top langs"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nowaythefato&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=000000&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowaythefato&layout=compact&hide_border=true&theme=tokyonight&bg_color=000000&title_color=7aa2f7&text_color=c0caf5&langs_count=8" alt="top langs"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=mvartkkj&theme=tokyonight&hide_border=true&background=000000&ring=bb9af7&fire=ff9e64&currStreakLabel=7aa2f7" alt="streak" width="500"/>
+<img src="https://streak-stats.demolab.com?user=nowaythefato&theme=tokyonight&hide_border=true&background=000000&ring=bb9af7&fire=ff9e64&currStreakLabel=7aa2f7" alt="streak" width="500"/>
 
 <br><br>
 
@@ -111,7 +111,7 @@ Modelagem e otimização de queries em `PostgreSQL` e `SQL Server` para sistemas
 
 <div align="center">
 
-<a href="https://github.com/mvartkkj"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=000000" alt="GitHub"/></a>
+<a href="https://github.com/nowaythefato"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=000000" alt="GitHub"/></a>
 <a href="mailto:arthur.martins11@outlook.com"><img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=7aa2f7&labelColor=000000" alt="Email"/></a>
 
 <br><br>
