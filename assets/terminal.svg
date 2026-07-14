@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" font-family="&#39;DejaVu Sans Mono&#39;,&#39;Cascadia Code&#39;,&#39;Courier New&#39;,monospace">
+<defs>
+<clipPath id="typ1"><rect x="40" y="88" width="0" height="24"></rect></clipPath>
+<clipPath id="typ2"><rect x="40" y="276" width="0" height="24"></rect></clipPath>
+</defs>
+<rect x="8" y="8" width="884" height="584" rx="12" fill="#000000" stroke="#2a2e42" stroke-width="1.5"></rect>
+<rect x="8" y="8" width="884" height="38" rx="12" fill="#0b0b0e"></rect>
+<rect x="8" y="30" width="884" height="16" fill="#0b0b0e"></rect>
+<circle cx="30" cy="27" r="6" fill="#f7768e"></circle><circle cx="52" cy="27" r="6" fill="#e0af68"></circle><circle cx="74" cy="27" r="6" fill="#9ece6a"></circle>
+<text x="450" y="32" text-anchor="middle" font-size="13" fill="#565f89">arthur@kali: ~/profile</text>
+<text x="40" y="84" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#565f89">┌──(</tspan><tspan fill="#7aa2f7" font-weight="bold">arthur</tspan><tspan fill="#f7768e">㉿</tspan><tspan fill="#7aa2f7" font-weight="bold">kali</tspan><tspan fill="#565f89">)-[</tspan><tspan fill="#c0caf5">~</tspan><tspan fill="#565f89">]</tspan></text>
+<text x="40" y="104" font-size="14" xml:space="preserve" clip-path="url(#typ1)"><tspan fill="#565f89">└─</tspan><tspan fill="#9ece6a" font-weight="bold">$</tspan><tspan fill="#c0caf5"> sudo ./init_profile.sh</tspan></text>
+<text x="40" y="134" font-size="14" xml:space="preserve" fill="#c0caf5" opacity="0"><tspan fill="#565f89">[</tspan><tspan fill="#7aa2f7">*</tspan><tspan fill="#565f89">] </tspan>Initializing kernel modules ...............</text>
+<text x="560" y="134" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#565f89">[ </tspan><tspan fill="#9ece6a" font-weight="bold">OK</tspan><tspan fill="#565f89"> ]</tspan></text>
+<text x="40" y="156" font-size="14" xml:space="preserve" fill="#c0caf5" opacity="0"><tspan fill="#565f89">[</tspan><tspan fill="#7aa2f7">*</tspan><tspan fill="#565f89">] </tspan>Mounting /dev/skills ......................</text>
+<text x="560" y="156" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#565f89">[ </tspan><tspan fill="#9ece6a" font-weight="bold">OK</tspan><tspan fill="#565f89"> ]</tspan></text>
+<text x="40" y="178" font-size="14" xml:space="preserve" fill="#c0caf5" opacity="0"><tspan fill="#565f89">[</tspan><tspan fill="#7aa2f7">*</tspan><tspan fill="#565f89">] </tspan>Establishing secure shell (ssh) ...........</text>
+<text x="560" y="178" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#565f89">[ </tspan><tspan fill="#9ece6a" font-weight="bold">OK</tspan><tspan fill="#565f89"> ]</tspan></text>
+<text x="40" y="204" font-size="14" xml:space="preserve" fill="#c0caf5" opacity="0"><tspan fill="#565f89">[</tspan><tspan fill="#e0af68">!</tspan><tspan fill="#565f89">] </tspan>Decrypting identity matrix ...</text>
+<rect x="40" y="222" width="520" height="16" rx="4" fill="none" stroke="#2a2e42" opacity="0"></rect>
+<rect x="42" y="224" width="0" height="12" rx="3" fill="#bb9af7"></rect>
+<text x="574" y="235" font-size="14" fill="#bb9af7" font-weight="bold" opacity="0">100%</text>
+<text x="40" y="266" font-size="15" xml:space="preserve" font-weight="bold" opacity="0"><tspan fill="#565f89">[</tspan><tspan fill="#9ece6a">+</tspan><tspan fill="#565f89">] </tspan><tspan fill="#9ece6a">ACCESS GRANTED</tspan></text>
+<text x="40" y="292" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#565f89">┌──(</tspan><tspan fill="#7aa2f7" font-weight="bold">arthur</tspan><tspan fill="#f7768e">㉿</tspan><tspan fill="#7aa2f7" font-weight="bold">kali</tspan><tspan fill="#565f89">)-[</tspan><tspan fill="#c0caf5">~</tspan><tspan fill="#565f89">]</tspan></text>
+<text x="40" y="312" font-size="14" xml:space="preserve" clip-path="url(#typ2)"><tspan fill="#565f89">└─</tspan><tspan fill="#9ece6a" font-weight="bold">$</tspan><tspan fill="#c0caf5"> neofetch</tspan></text>
+<text x="52" y="340.0" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">@@@@@%@##*.          . ::#@███@# *      </text>
+<text x="52" y="350.6" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">%@%@%@%*#=.             -#--+*#+ #=     </text>
+<text x="52" y="361.2" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">.*#=%=.                  .:.     #+     </text>
+<text x="52" y="371.8" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0"> .-:--+=.          .  .*@█@#.    ++     </text>
+<text x="52" y="382.4" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">:+#* :..=..       .-+. -*%%*.   :++     </text>
+<text x="52" y="393.0" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">.#%*%+:-+*.       :##*--=:-.    :#+     </text>
+<text x="52" y="403.6" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">.+%++%#*@#:       -@@@%#+#+=-=- =%*.    </text>
+<text x="52" y="414.2" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">=*@@█@%*#+.      .+@████@█@@@@%*@@%% .. </text>
+<text x="52" y="424.8" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">*=*@███@%%-#-    ++@██████████@████@.=#:</text>
+<text x="52" y="435.4" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">*#-%████@%@@=  . .=%███████████████@=+%-</text>
+<text x="52" y="446.0" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">#..%@#@█@@=@#  . .:%@██████████████@:+@-</text>
+<text x="52" y="456.6" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">@=.@██@%+##█@. - ..=*@████████████@*  #:</text>
+<text x="52" y="467.2" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">@@=#@@@██=*█@++#.. .:@████████████@% -* </text>
+<text x="52" y="477.8" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">██%*█████#=█@@#=-:  :#@█████████@%+..%* </text>
+<text x="52" y="488.4" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">@@@%█████@+@█@#@%##*+%#@████████@█@@+@  </text>
+<text x="52" y="499.0" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">@█@@█████@@@█@%█*...  .:%██@@@@@@@@@%.  </text>
+<text x="52" y="509.6" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">██@@██████████%+:        *█@@@=-:.      </text>
+<text x="52" y="520.2" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">██@@██████@███@@.         +@█@@@#*=   .=</text>
+<text x="52" y="530.8" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">██@@█████████@%@%%%+-.     =@@@%#+-   %#</text>
+<text x="52" y="541.4" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">*@@%█████████@@@+.:  ..*%   .@██@@= +%@@</text>
+<text x="52" y="552.0" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">-++*#@@█████@@@@*-: .:++#:   .#@%=-@#@@█</text>
+<text x="52" y="562.6" font-size="10" xml:space="preserve" fill="#7aa2f7" opacity="0">.:.-@@@@@@@@@@%@@+       .#.        #@██</text>
+<text x="380" y="344" font-size="14" font-weight="bold" opacity="0"><tspan fill="#7aa2f7">arthur</tspan><tspan fill="#c0caf5">@</tspan><tspan fill="#7aa2f7">kali</tspan></text>
+<text x="380" y="365.5" font-size="14" fill="#565f89" xml:space="preserve" opacity="0">────────────────────────────────</text>
+<text x="380" y="387" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#bb9af7" font-weight="bold">OS: </tspan><tspan fill="#c0caf5">Tokyo Night Linux x86_64</tspan></text>
+<text x="380" y="408.5" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#bb9af7" font-weight="bold">Host: </tspan><tspan fill="#c0caf5">Full-Stack Developer Jr.</tspan></text>
+<text x="380" y="430" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#bb9af7" font-weight="bold">Kernel: </tspan><tspan fill="#c0caf5">6.6-consignado-erp</tspan></text>
+<text x="380" y="451.5" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#bb9af7" font-weight="bold">Uptime: </tspan><tspan fill="#c0caf5">CS Student @ UNIFAI · 5º termo</tspan></text>
+<text x="380" y="473" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#bb9af7" font-weight="bold">Focus: </tspan><tspan fill="#c0caf5">Backend · APIs · Databases</tspan></text>
+<text x="380" y="494.5" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#bb9af7" font-weight="bold">Stack: </tspan><tspan fill="#c0caf5">React · TypeScript · Node.js</tspan></text>
+<text x="380" y="516" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#bb9af7" font-weight="bold">Data: </tspan><tspan fill="#c0caf5">PostgreSQL · Redis · SQLServer</tspan></text>
+<text x="380" y="537.5" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#bb9af7" font-weight="bold">Infra: </tspan><tspan fill="#c0caf5">Docker · AWS · Git</tspan></text>
+<text x="380" y="559" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#bb9af7" font-weight="bold">Learning: </tspan><tspan fill="#c0caf5">C# · Java · PHP · Laravel · .NET</tspan></text>
+<text x="380" y="580.5" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#bb9af7" font-weight="bold">Contact: </tspan><tspan fill="#c0caf5">github.com/mvartkkj</tspan></text>
+<rect x="380" y="610" width="20" height="14" rx="2" fill="#f7768e" opacity="0"></rect>
+<rect x="406" y="610" width="20" height="14" rx="2" fill="#ff9e64" opacity="0"></rect>
+<rect x="432" y="610" width="20" height="14" rx="2" fill="#e0af68" opacity="0"></rect>
+<rect x="458" y="610" width="20" height="14" rx="2" fill="#9ece6a" opacity="0"></rect>
+<rect x="484" y="610" width="20" height="14" rx="2" fill="#7dcfff" opacity="0"></rect>
+<rect x="510" y="610" width="20" height="14" rx="2" fill="#7aa2f7" opacity="0"></rect>
+<rect x="536" y="610" width="20" height="14" rx="2" fill="#bb9af7" opacity="0"></rect>
+<rect x="562" y="610" width="20" height="14" rx="2" fill="#c0caf5" opacity="0"></rect>
+<text x="40" y="556" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#565f89">┌──(</tspan><tspan fill="#7aa2f7" font-weight="bold">arthur</tspan><tspan fill="#f7768e">㉿</tspan><tspan fill="#7aa2f7" font-weight="bold">kali</tspan><tspan fill="#565f89">)-[</tspan><tspan fill="#c0caf5">~</tspan><tspan fill="#565f89">]</tspan></text>
+<text x="40" y="576" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#565f89">└─</tspan><tspan fill="#9ece6a" font-weight="bold">$</tspan><tspan fill="#c0caf5"> </tspan></text>
+<rect x="76" y="565" width="9" height="15" fill="#c0caf5" opacity="0"></rect>
+</svg>
