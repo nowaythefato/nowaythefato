@@ -1,6 +1,42 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nowaythefato/nowaythefato/main/assets/terminal.svg" alt="arthur@kali — boot sequence" width="820"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Initializing+system...+%5BOK%5D;Loading+kernel+modules...+%5BOK%5D;Mounting+%2Fhome%2Farthur...+%5BOK%5D;Decrypting+profile.dat...;Access+granted." alt="boot sequence" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+
+o88@$$$B@%Lvv)^              l`,_vpo&$$$$$v ,/   `
+#B@&@$$BB&kLYr:              ^ :/vZx{cCqhht :a-  .
+\0bpXXLnXx_;^.                  ..I,`^  `^^ "MJ
+ i}tj/Y(([\?                   -0whpul      .ha`
+":]}{_[-~(?.             .l:   tW$$$$L"     :hW;
+IvMWhq]!l`_\lI`          +cz?, ;}|/rf?      _*M,
+^/0qbLn\x\mZn:.          UMhpXtjt[ii"..     1&b
+]]bqYcpopOW8%r`         .p$BBBW#pqdOCvnzj_`{JBO;.
+Ycm#&$$$%m&%*r         .:m$$$$$$@$$$$$@$BOL&%$Wh+  I.
+JkvaB$$$$$&&%z;|].     :]m$$$$$$$$$$$$$$$B$$$$$$t Iz},
+LoQpB@$$$$@&&hhBv`     ,(m@$$$$$$$$$$$$$$$$$$$$$b,)kO[
+)\+[&BB8B$$$8k*&Cl     .:t$$$$$$$$$$$$$$$$$$$$$$h:r&o)
+@Z [@$@&*akkMjm$BC` ..  "1pM@$$$$$$$$$$$$$$$$$$@f Im*_
+$@cI&$$$$%o*u:k$$d^;x? ...,xB$$$$$$$$$$$$$$$$$$%+ .XC^
+8$$/Y%&B$$$$a,w$$B|tp}~,  .IO@$$$$$$$$$$$$$$$$BkI |a+
+$@%Q)%@$$$$$$1Y$$$wrX)("    |%$$$$$$$$$$$$$@B8px,{&0
+hW%8p@$$$$$$$mL$$$#0WabUcUYupaw#$$$$$$$$$$$@@@@$rh%i .
+W$$@&@$$$$$$$&o$$$8M$$O?i_((+,IiC@$$$@B%%@$$$$$$U%/
+$$$@8$$$$$$$$@B$$$$%d0[         .|#$$@%o0zuxj\\{~}
+$$$@W@$$$$$$$$$$$$$WO\            ;0$$$$@*0j}_;     .l
+$$$$8@$$$$$$$$$$$$$8&*x([]!"       .r%$$@@%WM#0I   ]Z0
+@$$@B$$$$$$$$$$$$$@#*o()Xv/t/t([!.   ]h$$@%*pz:  ^~hMM
+OaMM8@$$$$$$$$$$$$$&MMj_~   ;_]{um^   "X%$$$$J{:Xth%B$
+I]1vZh8@$$$$$$$$@B@BBMZ{,. `I]1|cQ+"    ivpdrr_\Uq$@$$
+ `l+]c*M&B@@$@@@8M***WBr        .,-)\]^    ..^^"?M$$$$
+
+```
 
 </div>
 
@@ -11,56 +47,42 @@
 └─$ whoami
 ```
 
-> **Arthur Martins** — Full-Stack Developer · Estudante de Ciência da Computação
-> Construindo sistemas financeiros para o mercado de **crédito consignado**.
-> `Backend` · `Integração de APIs` · `Banco de Dados`
-
-<br>
-
-```bash
-┌──(arthur㉿kali)-[~]
-└─$ cat about.md
+```
+> Nome ......... Arthur
+> Cargo ........ Desenvolvedor Full Stack
+> Stack ........ JavaScript | Python | React | Node.js
+> Localização .. /home/arthur/brasil
+> Status ....... [ ONLINE ] compilando ideias em produção
 ```
 
-| ` ` | ` ` |
-|---|---|
-| **Formação** | Etec Amim Jundi — Desenvolvimento de Sistemas |
-| **Cursando** | Ciência da Computação — UNIFAI `(5º termo)` |
-| **Posição** | Full-Stack Developer Junior |
-| **Foco** | Backend · Integração de APIs · Banco de Dados |
-| **Local** | Brasil 🇧🇷 |
+```bash
+┌──(arthur㉿kali)-[~]
+└─$ decrypt --profile arthur.dat
+```
+
+```
+[■■■■■■■■■■■■■■■■■■■■] 100%  decrypting... concluído ✔
+```
 
 <br>
 
+## `>_` Sobre mim
+
+Apaixonado por resolver problemas complexos com código limpo e eficiente. Sempre explorando novas tecnologias e construindo projetos que unem lógica e criatividade.
+
 ```bash
 ┌──(arthur㉿kali)-[~]
-└─$ ls -la ./stack --sort=daily
+└─$ cat skills.txt
 ```
 
 <div align="center">
 
-**`~/stack/principal`**
-
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=7dcfff&labelColor=000000" height="30" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=7aa2f7&labelColor=000000" height="30" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=9ece6a&labelColor=000000" height="30" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=7aa2f7&labelColor=000000" height="30" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=f7768e&labelColor=000000" height="30" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=7dcfff&labelColor=000000" height="30" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=ff9e64&labelColor=000000" height="30" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=f7768e&labelColor=000000" height="30" alt="Git"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=f7768e&labelColor=000000" height="30" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=ff9e64&labelColor=000000" height="30" alt="Postman"/>
-
-<br>
-
-**`~/stack/learning`** `# em progresso...`
-
-  <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=9ece6a&labelColor=000000" height="30" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ff9e64&labelColor=000000" height="30" alt="Java"/>
-  <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=bb9af7&labelColor=000000" height="30" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=f7768e&labelColor=000000" height="30" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=bb9af7&labelColor=000000" height="30" alt=".NET"/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
 
@@ -68,37 +90,32 @@
 
 ```bash
 ┌──(arthur㉿kali)-[~]
-└─$ tail -f experience.log
+└─$ fetch --github-stats
 ```
 
-**`[SVC]` Sistemas Financeiros (ERP)**
-Desenvolvimento de funcionalidades para gestão de crédito consignado — integrações bancárias, digitação de propostas e orquestração de fluxos de aprovação.
+<div align="center">
 
-**`[API]` Integração de APIs**
-Consumo e desenvolvimento de APIs REST com foco em rate limiting, filas com `SQS` / `BullMQ` e resiliência a falhas.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nowaythefato&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowaythefato&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
 
-**`[DB ]` Banco de Dados**
-Modelagem e otimização de queries em `PostgreSQL` e `SQL Server` para sistemas financeiros em produção.
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nowaythefato&theme=highcontrast&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+
+</div>
+
+> ⚠️ **Atenção:** troque `nowaythefato` pelo seu nome de usuário do GitHub nos links acima para os cards funcionarem.
 
 <br>
 
 ```bash
 ┌──(arthur㉿kali)-[~]
-└─$ neofetch --stats
+└─$ fortune | cowsay --dev
 ```
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nowaythefato&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=000000&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowaythefato&layout=compact&hide_border=true&theme=tokyonight&bg_color=000000&title_color=7aa2f7&text_color=c0caf5&langs_count=8" alt="top langs"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=nowaythefato&theme=tokyonight&hide_border=true&background=000000&ring=bb9af7&fire=ff9e64&currStreakLabel=7aa2f7" alt="streak" width="500"/>
-
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -106,16 +123,28 @@ Modelagem e otimização de queries em `PostgreSQL` e `SQL Server` para sistemas
 
 ```bash
 ┌──(arthur㉿kali)-[~]
-└─$ ./contact.sh --connect
+└─$ cat contact.sh
 ```
 
 <div align="center">
 
-<a href="https://github.com/nowaythefato"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=000000" alt="GitHub"/></a>
-<a href="mailto:arthur.martins11@outlook.com"><img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=7aa2f7&labelColor=000000" alt="Email"/></a>
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)](https://github.com/nowaythefato)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nowaythefato)
+[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail)](mailto:seu@email.com)
 
-<br><br>
+</div>
 
-<sub>`process finished with exit code 0` — se curtiu algum projeto, deixa uma ⭐</sub>
+<br>
+
+<div align="center">
+
+```
+┌──(arthur㉿kali)-[~]
+└─$ exit
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Connection+closed+by+remote+host.;See+you+next+time%2C+root." alt="exit" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=nowaythefato&color=00FF41&style=flat&label=TERMINAL+VISITS)
 
 </div>
