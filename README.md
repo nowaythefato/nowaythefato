@@ -1,21 +1,14 @@
 <div align="center">
 
-<!-- ── TERMINAL SESSION (boot → ascii avatar → whoami → sobre-mim → stack → exit, em loop) ── -->
+<!-- ── TERMINAL SESSION (boot → ascii → whoami → sobre-mim → stack → contact → exit, em loop) ── -->
 
-<img src="./assets/terminal-session.svg" alt="Terminal animado em loop: boot do sistema, avatar em ASCII art, whoami (nome, cargo, stack, local, status), sobre mim (CRM de consignado, formação Etec Amim Jundi, cursando Ciência da Computação), stack e exit" width="100%" />
+<img src="./assets/terminal-session.svg" alt="Terminal animado em loop: boot do sistema, avatar em ASCII art, whoami (nome, cargo, stack, local, status), sobre mim (CRM de consignado, formação Etec Amim Jundi, cursando Ciência da Computação), stack com logos, contatos e exit" width="100%" />
 
-</div>
+<br><br>
 
-<br>
+─────────────────────────────────────────────────────
 
 <!-- ── STACK (badges clicáveis) ──────────────────────────────── -->
-
-```bash
-┌──(noway㉿kali)-[~]
-└─$ cat stack.txt
-```
-
-<div align="center">
 
 **`// backend`**
 
@@ -37,16 +30,9 @@
 
 ─────────────────────────────────────────────────────
 
-</div>
-
 <!-- ── GITHUB STATS ──────────────────────────────────────────── -->
 
-```bash
-┌──(noway㉿kali)-[~]
-└─$ fetch --github-stats
-```
-
-<div align="center">
+**`// github stats`**
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nowaythefato&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" alt="Estatísticas do GitHub de nowaythefato" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowaythefato&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Linguagens mais usadas por nowaythefato" />
@@ -57,37 +43,15 @@
 
 ─────────────────────────────────────────────────────
 
-</div>
-
 <!-- ── CONTACT ───────────────────────────────────────────────── -->
 
-```bash
-┌──(noway㉿kali)-[~]
-└─$ cat contact.sh
-```
-
-<div align="center">
+**`// contact`**
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/nowaythefato)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/arthur-henrique-351386213)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:artkkj@icloud.com)
 
-─────────────────────────────────────────────────────
-
-</div>
-
-<!-- ── EXIT ──────────────────────────────────────────────────── -->
-
-```bash
-┌──(noway㉿kali)-[~]
-└─$ exit
-```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2400&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=560&height=28&lines=Connection+closed+by+remote+host.;Session+terminated.;See+you+next+time%2C+root." alt="Connection closed by remote host" />
-
-<br><br>
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nowaythefato&color=00FF41&style=flat&label=TERMINAL+VISITS)
 
