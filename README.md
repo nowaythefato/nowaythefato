@@ -1,50 +1,14 @@
 <div align="center">
 
-<!-- ── [1] BOOT SEQUENCE ─────────────────────────────────────── -->
+<!-- ── TERMINAL SESSION (boot → ascii avatar → whoami → sobre-mim → stack → exit, em loop) ── -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=720&height=36&lines=Initializing+system...;Loading+kernel+modules...+%5BOK%5D;Mounting+%2Fhome%2Farthur...+%5BOK%5D;Decrypting+profile.dat...+100%25;Access+granted.+Welcome%2C+root." alt="Boot sequence: Initializing system, loading kernel modules, mounting /home/arthur, access granted" />
-
-─────────────────────────────────────────────────────
-
-<!-- ── [2] ASCII AVATAR ──────────────────────────────────────── -->
-
-<img src="./assets/avatar-ascii.svg" alt="Avatar do GitHub convertido em ASCII art, em verde neon sobre fundo escuro" width="420" />
+<img src="./assets/terminal-session.svg" alt="Terminal animado em loop: boot do sistema, avatar em ASCII art, whoami (nome, cargo, stack, local, status), sobre mim (CRM de consignado, formação Etec Amim Jundi, cursando Ciência da Computação), stack e exit" width="100%" />
 
 </div>
 
 <br>
 
-<!-- ── [3] WHOAMI ────────────────────────────────────────────── -->
-
-```bash
-┌──(noway㉿kali)-[~]
-└─$ whoami
-```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=720&height=32&lines=%3E+Nome+.........+Arthur+(nowaythefato);%3E+Cargo+........+Desenvolvedor+FullStack;%3E+Stack+........+Node.js+%7C+React+%7C+TypeScript+%7C+PostgreSQL;%3E+Local+........+Brasil;%3E+Status+.......+%5B+ONLINE+%5D+compilando+ideias+em+producao" alt="whoami: Arthur (nowaythefato), Desenvolvedor FullStack, stack Node.js React TypeScript PostgreSQL, Brasil, status online" />
-
-─────────────────────────────────────────────────────
-
-</div>
-
-<!-- ── [4] SOBRE MIM ─────────────────────────────────────────── -->
-
-```bash
-┌──(noway㉿kali)-[~]
-└─$ cat sobre-mim.txt
-```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=760&height=32&lines=Atualmente+desenvolvendo+um+CRM+de+consignado+(sistema+financeiro);Formado+em+Des.+de+Sistemas+e+Redes+de+Computadores+-+Etec+Amim+Jundi;Cursando+Ciencia+da+Computacao" alt="Sobre mim: desenvolvendo um CRM de consignado, formado em Desenvolvimento de Sistemas e Redes de Computadores pela Etec Amim Jundi, cursando Ciência da Computação" />
-
-─────────────────────────────────────────────────────
-
-</div>
-
-<!-- ── [5] STACK ─────────────────────────────────────────────── -->
+<!-- ── STACK (badges clicáveis) ──────────────────────────────── -->
 
 ```bash
 ┌──(noway㉿kali)-[~]
@@ -52,10 +16,6 @@
 ```
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=720&height=32&lines=Backend+::+Node.js+%7C+Express+%7C+Redis+%7C+PostgreSQL+%7C+Prisma;Frontend+::+React+%7C+TypeScript;Cloud+%26+DevOps+::+Docker+%7C+AWS" alt="Stack: Backend Node.js Express Redis PostgreSQL Prisma, Frontend React TypeScript, Cloud e DevOps Docker AWS" />
-
-<br><br>
 
 **`// backend`**
 
@@ -79,7 +39,7 @@
 
 </div>
 
-<!-- ── [6] GITHUB STATS ──────────────────────────────────────── -->
+<!-- ── GITHUB STATS ──────────────────────────────────────────── -->
 
 ```bash
 ┌──(noway㉿kali)-[~]
@@ -87,10 +47,6 @@
 ```
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2400&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=560&height=28&lines=Fetching+data+from+api.github.com...;200+OK+--+rendering+stats..." alt="Fetching data from api.github.com" />
-
-<br><br>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nowaythefato&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" alt="Estatísticas do GitHub de nowaythefato" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowaythefato&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Linguagens mais usadas por nowaythefato" />
@@ -103,7 +59,7 @@
 
 </div>
 
-<!-- ── [7] CONTACT ───────────────────────────────────────────── -->
+<!-- ── CONTACT ───────────────────────────────────────────────── -->
 
 ```bash
 ┌──(noway㉿kali)-[~]
@@ -120,7 +76,7 @@
 
 </div>
 
-<!-- ── [8] EXIT ──────────────────────────────────────────────── -->
+<!-- ── EXIT ──────────────────────────────────────────────────── -->
 
 ```bash
 ┌──(noway㉿kali)-[~]
